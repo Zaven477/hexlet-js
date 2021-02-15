@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "greeting to hexlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaven477/hexlet-js.git"
+  },
+  "author": "Zaven Papikyan <Papikyan86@bk.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zaven477/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Zaven477/hexlet-js#readme"
+}
